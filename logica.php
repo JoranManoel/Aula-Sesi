@@ -1,12 +1,4 @@
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu programinha em PHP</title>
-</head>
-<body>
-    <h1>Isso é html</h1>
-    <?php 
+<?php 
         $dia = "Terça" ;
         $temperatura = 0 ;
 
@@ -40,6 +32,3 @@
         echo "<b>A quantidade total de nomes é $total </b>";
 
     ?>
-</body>
-
-</html>
